@@ -8,4 +8,4 @@ run
 berikut tampilan coding dan run praktikum
 ![alt image](https://github.com/MugiMPambdi/Praktikum-Pertemuan-ke-9/blob/22dcf11157b16c7423722b5e21e85216011df443/FOTO/ss%20praktikum.png)
 run
-![alt image]()
+![alt image](https://github.com/MugiMPambdi/Praktikum-Pertemuan-ke-9/blob/8da3c532d0ca7665a7b1f9641f35a5d79e80039b/FOTO/ssrunpraktikum.png)
