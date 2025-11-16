@@ -6,4 +6,6 @@ run
 ![alt image](https://github.com/MugiMPambdi/Praktikum-Pertemuan-ke-9/blob/94de859211712a2a3e6a87c86ec354d5a5f31b49/FOTO/ssrunlatihan1.png)
 
 berikut tampilan coding dan run praktikum
+![alt image](https://github.com/MugiMPambdi/Praktikum-Pertemuan-ke-9/blob/22dcf11157b16c7423722b5e21e85216011df443/FOTO/ss%20praktikum.png)
+run
 ![alt image]()
